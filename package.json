@@ -1,5 +1,5 @@
 {
-  "name": "random-messages",
+  "name": "node-random-names",
   "version": "1.0.2",
   "description": "Generated Random names, my first package upload to npm",
   "main": "index.js",
