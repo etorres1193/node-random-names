@@ -1,6 +1,6 @@
 # Random Names
 
-This project is only for education purpose
+This project is only for education purpose.
 It shows how to create a global package that generates random names.
 
 ## Install
