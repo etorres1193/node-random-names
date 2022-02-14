@@ -8,14 +8,14 @@ const messages = [
     "Paulina"
 ]
 
-const randomMsg = () => {
+const randomName = () => {
     const message = messages[Math.floor(Math.random() * messages.length)];
 
     console.log(message);
 }
 
-// randomMsg();
+// randomName();
 
 module.exports = {
-    randomMsg
+    randomName
 }
